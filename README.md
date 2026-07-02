@@ -17,15 +17,15 @@ This automation reduces manual work and ensures every lead receives a personaliz
 ## Workflow
 
 Google Form
-⬇
+➡️
 Make.com
-⬇
+➡️
 Groq AI API
-⬇
+➡️
 Generate Personalized Email
-⬇
+➡️
 Gmail Sends Email
-⬇
+➡️
 Google Sheets Stores Lead
 
 ---
